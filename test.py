@@ -1,4 +1,3 @@
-f = open('Vocabulary.txt', 'r')
-data = f.read()
-f.close()
-print(data)
+print("test")
+sum = 5 * 10
+print(sum)
